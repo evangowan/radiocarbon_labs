@@ -19,18 +19,21 @@ Geological Survey of Canada|Canada|GSC|conventional|In GSC I, they state no corr
 Geochron Laboratories|United States|GX|conventional|Samples were normalized after 1980, Kelly et al use GX-8633 as the cutoff||KellyEtal2022
 Teledyne Isotopes|United States|I|conventional|no||BuckleyValdesPages1981
 Illinois State Geological Survey|United States|ISGS|conventional|yes||KellyEtal2022
-Copenhagen Carbon-14 Laboratory, National Museum|Denmark|K|conventional|early reports say no, however according to Funder (1982), it seems that they did, except that marine shells were unconventionally normalized to 0 permille|Due to not correcting for fractionation, the laboratory rounded all errors that were lower than 100 years to 100 years. This was true up to their last date list (X), but some later reported ages were below that.|Tauber, H., 1960. Copenhagen radiocarbon dates IV. Radiocarbon, 2, pp.12-25., Funder, S., 1982. 14C-dating of samples collected during the 1979 expedition to North Greenland. Rapport Grønlands Geologiske Undersøgelse, 110, pp.9-14.
-Lund (conventional)|Sweden|L|conventional|yes||Håkansson, S., 1974. University of Lund radiocarbon dates VII. Radiocarbon, 16(3), pp.307-330.
+Copenhagen Carbon-14 Laboratory, National Museum|Denmark|K|conventional|Early reports (Copenhagen IV) state no. However according to Funder (1982), it seems that they did, except that marine shells were unconventionally normalized to 0 permille|In Copenhagen III, they state that 200 +/- 40 should be added to all of the dates due to a change in standards to correct for the Seuss effect. In Copenhagen IV, they state due to not correcting for fractionation, the laboratory rounded all errors that were lower than 100 years to 100 years. This was true up to their last date list (X), but some later reported ages were below that.|Tauber1960,Tauber1960a., Funder, S., 1982. 14C-dating of samples collected during the 1979 expedition to North Greenland. Rapport Grønlands Geologiske Undersøgelse, 110, pp.9-14.
 Lamont Geological Observatory (Columbia University)|United States|L|conventional|Fractionation was corrected from 1956|Lamont VI sets a standardized way to correct for fractionation|BroeckerOlson1959
+La Jolla, Scripps Institute of Oceanography, University of California|United States|LJ|conventional|no||HubbsEtal1960
+Lund (conventional)|Sweden|Lu|conventional|yes||Håkansson, S., 1974. University of Lund radiocarbon dates VII. Radiocarbon, 16(3), pp.307-330.
 Lund (AMS)|Sweden|LuS|AMS|likely||
 University of Michigan|United States|M|conventional|||
 University of Pennsylvania|United States|P|conventional|no||Ralph1959
 University of Pisa|Italy|Pi|conventional|||
 Cambridge University|United Kingdom|Q|conventional|||
 Queens College|United States|QC|conventional|no||PardiNewman1980
+University of Saskatchewan|Canada|S|conventional|||
 Simon Fraser University|Canada|SFU|conventional|If d13C was measured, otherwise no unless otherwise stated||HobsonNelson1984
+Socony Mobil|United States|SM|conventional||Some early dates from this lab use the code "MP"|BrayBurke1960
 Geological Survey of Sweden|Sweden|St|conventional|yes||Ostlund1959
-Norwegian Insitutue of Technology, Trondheim|Norway|T|conventional|no|In the first date list, they do not include an error for the standard deviation of the half life (30 years)|Nydal1959
+Norwegian Insitutue of Technology, Trondheim|Norway|T|conventional|In Trondheim I, no. In Trondheim II, they discuss measuring d13C for fractionation, but it is not clear if they applied it to the dates on this list|In the first date list, they do not include an error for the standard deviation of the half life (30 years)|Nydal1959,Nydal1960
 University of Texas at Austin|United States|Tx|conventional|no, unless noted||Valastro, S., Davis, E.M., Varela, A.G. And Lisk, S.V., 1988. University of Texas at Austin radiocarbon dates XVI. Radiocarbon, 30(2), pp.197-253.
 Uppsala University (conventional)|Sweden|U|conventional|yes||Olsson1959
 Uppsala University (AMS)|Sweden|Ua|AMS|likely||
@@ -38,4 +41,5 @@ Belfast (conventional)|United Kingdom|UB|conventional|yes||Smith, A.G., Pearson,
 Belfast (AMS)|United Kingdom|UBA|AMS|likely||
 University of Georgia|United States|UGa|conventional|Corrected after UGa-5470||KellyEtal2022
 Universite du Quebec a Montreal GEOTOP (UQAM)|Canada|UQ|conventional|no||Dubois, J.M.M., Occhietti, S., Pichet, P., Page, P., Jacob, C. And Bigras, P., 1988. Universite du Quebec a Montreal GEOTOP Radiocarbon Dates I. Radiocarbon, 30(3), pp.355-365.
+United States Geological Survey|United States|W|conventional|||
 Yale University|United States|Y|conventional|||
