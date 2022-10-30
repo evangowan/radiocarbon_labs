@@ -1,0 +1,53 @@
+country: United States
+fractionation_notes:
+- notes: No determinations of C13/C12 were made, so it is unlikely a correction was
+    made
+  reference: Ralph1959
+  year: 1959
+- notes: They mention that fractionation effects are being determined through the
+    measurement of the C13/C12 ratios, but this appears to only apply to their wood
+    sample that they use for calibration"
+  reference: RalphStuckenrath1962
+  year: 1962
+lab_id: P
+lab_name: University of Pennsylvania
+lab_type: conventional
+references:
+- high_number: 44
+  low_number: 5
+  notes: Pennsylvania I
+  reference: Ralph1955
+  year: 1955
+- high_number: 54
+  low_number: 40
+  notes: Pennsylvania II
+  reference: CoonRalph1955
+  year: 1955
+- high_number: 227
+  low_number: 11
+  notes: Pennsylvania III
+  reference: Ralph1959
+  year: 1959
+- high_number: 325
+  low_number: 13
+  notes: Pennsylvania IV
+  reference: RalphAckerman1961
+  year: 1961
+- high_number: 363
+  low_number: 99
+  notes: Pennsylvania V
+  reference: RalphStuckenrath1962
+  year: 1962
+uncertainty_notes:
+- notes: They included an uncertainty of ±0.1 counts/min to account for uncertainties
+    in the age of the known age samples. Also note that they consider "BP" to be relative
+    to 1958 in this list, rather than 1950
+  reference: Ralf1955
+  year: 1955
+- notes: Dates on this list are corrected to "zero", so presumably that is 1950
+  reference: RalphAckerman1961
+  year: 1961
+- notes: They explicitly state that the ages were set to 1950 for 0 BP
+  reference: RalphStuckenrath1962
+  year: 1962
+year_opened: 1951
