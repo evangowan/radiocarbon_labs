@@ -1,0 +1,25 @@
+country: Japan
+fractionation_notes:
+- notes: Wood and charcoal corrected to -25 permille, and shells 0 permille based
+    on assumed d13C values
+  reference: KigoshiEtal1962
+  year: 1962
+- notes: Shell samples are not corrected for fractionation
+  reference: KigoshiEtal1973
+  year: 1973
+lab_id: GaK
+lab_name: Gakushuin
+lab_type: conventional
+references:
+- high_number: 201
+  low_number: 51
+  notes: Gakushin I
+  reference: KigoshiEtal1962
+  year: 1962
+- high_number: 2874
+  low_number: 1246
+  notes: Gakushuin VIII
+  reference: KigoshiEtal1973
+  year: 1973
+uncertainty_notes: []
+year_opened: 1959
