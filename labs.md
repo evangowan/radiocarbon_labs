@@ -11,6 +11,7 @@ Lab name|Country|Lab ID    |conventional or AMS|fractionation correction|other n
 :-------|:------|:--------:|:------------------|:---------------------|:----------|:---------
 University of Arizona|United States|A|conventional|||
 University of Aarhus|Denmark|AAR|AMS|yes||AndersonEtal1989
+Australian National University|Australia|ANU|conventional|yes, at least from ANU III||PolachEtal1969
 University of Bern|Switzerland|B|conventional|||
 Beta Analytic|United States|Beta|AMS|Beta started normalizing after Beta-70783||KellyEtal2022
 British Museum, London|United Kingdom|BM|conventional|no|As a result of the lack of fractionation correction, they included a 80 year error to account for this, plus a 100 year error for the de Vries effect|BarkerMackey1959

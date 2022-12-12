@@ -1,0 +1,30 @@
+country: Australia
+fractionation_notes:
+- notes: In this first date list, they only dated wood and charcoal, so fractionation
+    corrections were not done or necessary
+  reference: PolachEtal1967
+  year: 1967
+- notes: 'All dates reported are corrected for fractionation using AMS measured d13C'
+  reference: PolachEtal1969
+  year: 1969
+lab_id: ANU
+lab_name: Australian National University
+lab_type: conventional
+references:
+- high_number: 27
+  low_number: 1
+  notes: ANU I
+  reference: PolachEtal1967
+  year: 1967
+- high_number: 180
+  low_number: 23
+  notes: ANU II
+  reference: PolachEtal1968
+  year: 1968
+- high_number: 258
+  low_number: 9
+  notes: ANU III
+  reference: PolachEtal1969
+  year: 1969
+uncertainty_notes: []
+year_opened: 1966
