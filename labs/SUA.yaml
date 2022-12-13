@@ -1,0 +1,26 @@
+country: Australia
+fractionation_notes:
+- notes: Corrected for fractionation based on estimated d13C
+  reference: GillespieEtal1972
+  year: 1972
+lab_id: SUA
+lab_name: Sydney University
+lab_type: conventional
+references:
+- high_number: 18
+  low_number: 1
+  notes: Sydney University I
+  reference: GillespieEtal1972
+  year: 1972
+- high_number: 379
+  low_number: 19
+  notes: Sydney University III
+  reference: GillespieTemple1976
+  year: 1976
+- high_number: 633
+  low_number: 77
+  notes: Sydney University V
+  reference: GillespieTemple1979
+  year: 1979
+uncertainty_notes: []
+year_opened: 1970
