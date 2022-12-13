@@ -1,0 +1,21 @@
+country: Australia
+fractionation_notes:
+- notes: No correction appears to have been made for fractionation
+  reference: Neuhaus1965
+  year: 1965
+lab_id: NSW
+lab_name: University of New South Wales
+lab_type: conventional
+references:
+- high_number: 16
+  low_number: 1
+  notes: University of New South Wales I
+  reference: GreenEtal1965
+  year: 1965
+- high_number: ''
+  low_number: ''
+  notes: Description of the radiocarbon measurement device
+  reference: Neuhaus1965
+  year: 1965
+uncertainty_notes: []
+year_opened: 1964

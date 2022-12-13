@@ -1,0 +1,13 @@
+country: New Zealand
+fractionation_notes: []
+lab_id: Wk_(AMS)
+lab_name: University of Waikato
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: Information about the facility
+  reference: Waikato2022
+  year: 2022
+uncertainty_notes: []
+year_opened: 1996

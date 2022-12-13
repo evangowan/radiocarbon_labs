@@ -27,6 +27,7 @@ La Jolla, Scripps Institute of Oceanography, University of California|United Sta
 Lund (conventional)|Sweden|Lu|conventional|yes||Håkansson, S., 1974. University of Lund radiocarbon dates VII. Radiocarbon, 16(3), pp.307-330.
 Lund (AMS)|Sweden|LuS|AMS|likely||
 University of Michigan|United States|M|conventional|||
+University of New South Wales|Australia|NSW|conventional|no||Neuhaus1965
 ANTARES|Australia|OZA|AMS|yes||FinkEtal2004
 ANTARES|Australia|OZC|AMS|yes||FinkEtal2004
 ANTARES|Australia|OZD|AMS|yes||FinkEtal2004
@@ -49,4 +50,5 @@ University of Georgia|United States|UGa|conventional|Corrected after UGa-5470||K
 Universite du Quebec a Montreal GEOTOP (UQAM)|Canada|UQ|conventional|no||Dubois, J.M.M., Occhietti, S., Pichet, P., Page, P., Jacob, C. And Bigras, P., 1988. Universite du Quebec a Montreal GEOTOP Radiocarbon Dates I. Radiocarbon, 30(3), pp.355-365.
 United States Geological Survey|United States|W|conventional|||
 University of Waikato|New Zealand|Wk|conventional|yes||HoggEtal1987
+University of Waikato|New Zealand|Wk|AMS|yes|They do not distinguish between AMS and conventional dates with a different code|Waikato2022
 Yale University|United States|Y|conventional|||
