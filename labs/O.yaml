@@ -1,5 +1,9 @@
 country: United States
-fractionation_notes: []
+fractionation_notes:
+- notes: From this paper, it does not appear that they would have known to correct
+    for fractionation in their early radiocarbon measurements.
+  reference: BrannonEtal1957b
+  year: 1957
 lab_id: O
 lab_name: Humble Oil
 lab_type: conventional
@@ -13,6 +17,14 @@ references:
   low_number: 4
   notes: Humble Oil II
   reference: BrannonEtal1957a
+  year: 1957
+- high_number: ''
+  low_number: ''
+  notes: Reports on measurements of then modern radiocarbon versus the preindustrial,
+    noting that there has been a rise in CO2 from fossil fuels. They also discovered
+    in this paper that there was a difference in radiocarbon levels between marine
+    shells and wood
+  reference: BrannonEtal1957b
   year: 1957
 uncertainty_notes: []
 year_opened: 1955
