@@ -1,0 +1,11 @@
+country: Australia
+fractionation_notes:
+- notes: All ANTARES measurements are corrected for fractionation using measured d13C
+  reference: FinkEtal2004
+  year: 2004
+lab_id: OZD
+lab_name: ANTARES
+lab_type: AMS
+references: []
+uncertainty_notes: []
+year_opened: 1989

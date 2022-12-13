@@ -27,6 +27,9 @@ La Jolla, Scripps Institute of Oceanography, University of California|United Sta
 Lund (conventional)|Sweden|Lu|conventional|yes||Håkansson, S., 1974. University of Lund radiocarbon dates VII. Radiocarbon, 16(3), pp.307-330.
 Lund (AMS)|Sweden|LuS|AMS|likely||
 University of Michigan|United States|M|conventional|||
+ANTARES|Australia|OZA|AMS|yes||FinkEtal2004
+ANTARES|Australia|OZC|AMS|yes||FinkEtal2004
+ANTARES|Australia|OZD|AMS|yes||FinkEtal2004
 University of Pennsylvania|United States|P|conventional|no||Ralph1959
 University of Pisa|Italy|Pi|conventional|||
 Cambridge University|United Kingdom|Q|conventional|||
