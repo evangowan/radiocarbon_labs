@@ -44,4 +44,5 @@ Belfast (AMS)|United Kingdom|UBA|AMS|likely||
 University of Georgia|United States|UGa|conventional|Corrected after UGa-5470||KellyEtal2022
 Universite du Quebec a Montreal GEOTOP (UQAM)|Canada|UQ|conventional|no||Dubois, J.M.M., Occhietti, S., Pichet, P., Page, P., Jacob, C. And Bigras, P., 1988. Universite du Quebec a Montreal GEOTOP Radiocarbon Dates I. Radiocarbon, 30(3), pp.355-365.
 United States Geological Survey|United States|W|conventional|||
+University of Waikato|New Zealand|Wk|conventional|yes||HoggEtal1987
 Yale University|United States|Y|conventional|||

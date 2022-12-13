@@ -1,0 +1,16 @@
+country: New Zealand
+fractionation_notes:
+- notes: Dates are corrected for fractionation based on measured or estimated d13C
+  reference: HoggEtal1987
+  year: 1987
+lab_id: Wk
+lab_name: University of Waikato
+lab_type: conventional
+references:
+- high_number: 742
+  low_number: 1
+  notes: Waikato I
+  reference: HoggEtal1987
+  year: 1987
+uncertainty_notes: []
+year_opened: 1975
