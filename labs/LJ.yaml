@@ -1,0 +1,59 @@
+country: United States
+fractionation_notes:
+- notes: "They did not do a fractionation correction because they found no difference\
+    \ in the age of a wood and shell sample\e[D"
+  reference: HubbsEtal1960
+  year: 1960
+- notes: All dates corrected for fractionation as of La Jolla VII, presumably all dates measured from 1971 onwards
+  reference: Linick1977
+  year: 1977
+- notes: all dates corrected for fractionation
+  reference: Linick1984
+  year: 1984
+lab_id: LJ
+lab_name: La Jolla
+lab_type: conventional
+references:
+- high_number: 142
+  low_number: 3
+  notes: La Jolla I
+  reference: HubbsEtal1960
+  year: 1960
+- high_number: 399
+  low_number: 199
+  notes: La Jolla II
+  reference: HubbsEtal1962
+  year: 1962
+- high_number: 564
+  low_number: 281
+  notes: La Jolla III
+  reference: HubbsEtal1963
+  year: 1963
+- high_number: 993
+  low_number: 565
+  notes: La Jolla IV
+  reference: HubbsEtal1965
+  year: 1965
+- high_number: 1404
+  low_number: 995
+  notes: La Jolla V
+  reference: HubbsBien1967
+  year: 1967
+- high_number: 2324
+  low_number: 1625
+  notes: La Jolla VI - note they include "callibrated" ages based on comparison with
+    brislecone pines
+  reference: BienPandolfi1972
+  year: 1972
+- high_number: 3425
+  low_number: 1832
+  notes: La Jolla VII
+  reference: Linick1977
+  year: 1977
+- high_number: 5670
+  low_number: 4172
+  notes: La Jolla X
+  reference: Linick1984
+  year: 1984
+uncertainty_notes: []
+year_opened: 1957

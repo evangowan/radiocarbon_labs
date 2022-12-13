@@ -23,7 +23,7 @@ Teledyne Isotopes|United States|I|conventional|no||BuckleyValdesPages1981
 Illinois State Geological Survey|United States|ISGS|conventional|yes||KellyEtal2022
 Copenhagen Carbon-14 Laboratory, National Museum|Denmark|K|conventional|Early reports (Copenhagen IV) state no. However according to Funder (1982), it seems that they did, except that marine shells were unconventionally normalized to 0 permille|In Copenhagen III, they state that 200 +/- 40 should be added to all of the dates due to a change in standards to correct for the Seuss effect. In Copenhagen IV, they state due to not correcting for fractionation, the laboratory rounded all errors that were lower than 100 years to 100 years. This was true up to their last date list (X), but some later reported ages were below that.|Tauber1960,Tauber1960a., Funder, S., 1982. 14C-dating of samples collected during the 1979 expedition to North Greenland. Rapport Grønlands Geologiske Undersøgelse, 110, pp.9-14.
 Lamont Geological Observatory (Columbia University)|United States|L|conventional|Fractionation was corrected from 1956|Lamont VI sets a standardized way to correct for fractionation|BroeckerOlson1959
-La Jolla, Scripps Institute of Oceanography, University of California|United States|LJ|conventional|no||HubbsEtal1960
+La Jolla, Scripps Institute of Oceanography, University of California|United States|LJ|conventional|Samples were corrected from 1971, any date list after VI should be corrected (LJ-2000 to LJ-2300), those before likely not||HubbsEtal1960,Linick1977
 Lund (conventional)|Sweden|Lu|conventional|yes||Håkansson, S., 1974. University of Lund radiocarbon dates VII. Radiocarbon, 16(3), pp.307-330.
 Lund (AMS)|Sweden|LuS|AMS|likely||
 University of Michigan|United States|M|conventional|||
