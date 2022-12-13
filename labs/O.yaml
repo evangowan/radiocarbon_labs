@@ -1,0 +1,18 @@
+country: United States
+fractionation_notes: []
+lab_id: O
+lab_name: Humble Oil
+lab_type: conventional
+references:
+- high_number: 248
+  low_number: 12
+  notes: Humble Oil I
+  reference: BrannonEtal1957
+  year: 1957
+- high_number: 261
+  low_number: 4
+  notes: Humble Oil II
+  reference: BrannonEtal1957a
+  year: 1957
+uncertainty_notes: []
+year_opened: 1955
