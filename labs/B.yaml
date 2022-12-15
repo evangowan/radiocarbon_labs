@@ -1,0 +1,30 @@
+country: Switzerland
+fractionation_notes:
+- notes: no corrections for fractionation
+  reference: GfellerEtal1961
+  year: 1961
+lab_id: B
+lab_name: University of Bern
+lab_type: conventional
+references:
+- high_number: 127
+  low_number: 11
+  notes: Bern I
+  reference: OeschgerEtal1959
+  year: 1958
+- high_number: 292
+  low_number: 137
+  notes: Bern II
+  reference: GfellerEtal1961
+  year: 1961
+- high_number: 2013
+  low_number: 593
+  notes: Bern VII
+  reference: OeschgerEtal1970
+  year: 1970
+uncertainty_notes:
+- notes: An extra uncertainty of 80 years was included in addition to the counting
+    statistics to account for the lack of fractionation correction
+  reference: OeschgerEtal1970
+  year: 1970
+year_opened: 1958
