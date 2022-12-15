@@ -1,0 +1,16 @@
+country: Japan
+fractionation_notes:
+- notes: The dates are corrected for fractionation through measurement of 13C
+  reference: NakaiEtal1984
+  year: 1984
+lab_id: NUTA
+lab_name: Nagoya University Tandem Accelerator
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: Describes the labratory procedures of NUTA
+  reference: NakaiEtal1984
+  year: 1984
+uncertainty_notes: []
+year_opened: 1982
