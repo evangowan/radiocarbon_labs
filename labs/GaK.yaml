@@ -21,5 +21,23 @@ references:
   notes: Gakushuin VIII
   reference: KigoshiEtal1973
   year: 1973
-uncertainty_notes: []
+- high_number: 1909
+  low_number: 1209
+  notes: Intercomparison of GSC and GaK dates on driftwood from Svalbard raised beaches
+  reference: Blake1980
+  year: 1980
+- high_number: ''
+  low_number: ''
+  notes: Intercomparison of the age of archaeological materials from other labs shows
+    that the ages from Gakushuin are not reliable
+  reference: Blakeslee1994
+  year: 1994
+uncertainty_notes:
+- notes: Intercomparison between GaK and GSC shows that the GaK ages are likely unreliable
+  reference: Blake1980
+  year: 1980
+- notes: The ages from GaK do not match the results of other laboratories and should
+    be treated with caution
+  reference: Blakeslee1994
+  year: 1994
 year_opened: 1959
