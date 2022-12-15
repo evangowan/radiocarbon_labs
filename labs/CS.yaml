@@ -1,0 +1,16 @@
+country: Australia
+fractionation_notes:
+- notes: Ages corrected for fractionation using AMS measured d13C
+  reference: BowmanHarvey1983
+  year: 1983
+lab_id: CS
+lab_name: CSIRO Division of Soils Radiocarbon Laboratory
+lab_type: conventional
+references:
+- high_number: 266
+  low_number: 214
+  notes: discusses the marine reservoir age for South Australia
+  reference: BowmanHarvey1983
+  year: 1983
+uncertainty_notes: []
+year_opened: ''

@@ -15,6 +15,7 @@ Australian National University|Australia|ANU|conventional|yes, at least from ANU
 University of Bern|Switzerland|B|conventional|||
 Beta Analytic|United States|Beta|AMS|Beta started normalizing after Beta-70783||KellyEtal2022
 British Museum, London|United Kingdom|BM|conventional|no|As a result of the lack of fractionation correction, they included a 80 year error to account for this, plus a 100 year error for the de Vries effect|BarkerMackey1959
+CSIRO Division of Soils Radiocarbon Laboratory|Australia|CS|conventional|yes||BowmanHarvey1983
 CSIRO|Australia|CSC|AMS|yes||SieEtal1994
 Gakushuin University|Japan|GaK|conventional|marine shells are not corrected for fractionation|Intercomparison of samples from different labs show that GaK dates are likely unreliable|KigoshiEtal1973,Blake1980,Blakeslee1994
 Groningen|Netherlands|GrN|conventional|correction is applied to terrestrial material if dC13 is measured, but not to marine carbonates (sea shells) and freshwater carbonates||VogelWaterbolk1972
