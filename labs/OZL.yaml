@@ -3,7 +3,7 @@ fractionation_notes:
 - notes: All ANTARES measurements are corrected for fractionation using measured d13C
   reference: FinkEtal2004
   year: 2004
-lab_id: OZA
+lab_id: OZL
 lab_name: ANTARES
 lab_type: AMS
 references:

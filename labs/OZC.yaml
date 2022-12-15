@@ -6,6 +6,11 @@ fractionation_notes:
 lab_id: OZC
 lab_name: ANTARES
 lab_type: AMS
-references: []
+references:
+- high_number: ''
+  low_number: ''
+  notes: laboratory procedures
+  reference: FinkEtal2004
+  year: 2004
 uncertainty_notes: []
 year_opened: 1989
