@@ -1,0 +1,13 @@
+country: Australia
+fractionation_notes: []
+lab_id: CSC
+lab_name: CSIRO
+lab_type: AMS
+references:
+- high_number: 40
+  low_number: ''
+  notes: Reports on the initial tests of the AMS measurements
+  reference: SieEtal1994
+  year: 1994
+uncertainty_notes: []
+year_opened: 1990
