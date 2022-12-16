@@ -10,6 +10,7 @@ Note, this is a very incomplete list. Feel free to send corrections via the Issu
 Lab name|Country|Lab ID    |conventional or AMS|fractionation correction|other notes|reference
 :-------|:------|:--------:|:------------------|:---------------------|:----------|:---------
 University of Arizona|United States|A|conventional|||
+NSF-Arizona AMS Laboratory|United States|AA|AMS|yes||DonahueEtal1997
 University of Aarhus|Denmark|AAR|AMS|yes||AndersonEtal1989
 Australian National University|Australia|ANU|conventional|yes, at least from ANU III||PolachEtal1969
 University of Bern|Switzerland|B|conventional|no|in some later measurements, they included an additional error term to account for a lack of fractionation correction|GfellerEtal1961,OeschgerEtal1970

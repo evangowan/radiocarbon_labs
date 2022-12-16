@@ -1,0 +1,16 @@
+country: United States
+fractionation_notes:
+- notes: All dates are normalized to -25 permille
+  reference: DonahueEtal1997
+  year: 1997
+lab_id: AA
+lab_name: NSF-Arizona AMS Laboratory
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: Describes the measurment techniques
+  reference: DonahueEtal1997
+  year: 1997
+uncertainty_notes: []
+year_opened: 1981
