@@ -1,0 +1,16 @@
+country: United States (with satellite labs in other countries)
+fractionation_notes:
+- notes: Beta started a fractionation correction after Beta-70783
+  reference: KellyEtal2022
+  year: 2022
+lab_id: Beta
+lab_name: Beta Analytic Inc
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: Beta started using AMS in 1983
+  reference: Beta2022
+  year: 2022
+uncertainty_notes: []
+year_opened: 1979

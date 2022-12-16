@@ -1,0 +1,17 @@
+country: United States
+fractionation_notes:
+- notes: Beta started a fractionation correction after Beta-70783
+  reference: KellyEtal2022
+  year: 2022
+lab_id: Beta_(conventional)
+lab_name: Beta Analytic Inc.
+lab_type: conventional
+references:
+- high_number: ''
+  low_number: ''
+  notes: Before 1983, Beta dates were conventional, it is not stated when they stopped
+    doing conventional dating in favour of pure AMS dates
+  reference: Beta2022
+  year: 2022
+uncertainty_notes: []
+year_opened: 1979

@@ -13,7 +13,8 @@ University of Arizona|United States|A|conventional|||
 University of Aarhus|Denmark|AAR|AMS|yes||AndersonEtal1989
 Australian National University|Australia|ANU|conventional|yes, at least from ANU III||PolachEtal1969
 University of Bern|Switzerland|B|conventional|no|in some later measurements, they included an additional error term to account for a lack of fractionation correction|GfellerEtal1961,OeschgerEtal1970
-Beta Analytic|United States|Beta|AMS|Beta started normalizing after Beta-70783||KellyEtal2022
+Beta Analytic|United States|Beta|conventional|Beta started normalizing after Beta-70783||Beta2022,KellyEtal2022
+Beta Analytic|United States|Beta|AMS|Beta started normalizing after Beta-70783|Beta started doing AMS dating in 1983, but did not change their lab code so it is not known which samples are conventional or AMS|Beta2022,KellyEtal2022
 British Museum, London|United Kingdom|BM|conventional|no|As a result of the lack of fractionation correction, they included a 80 year error to account for this, plus a 100 year error for the de Vries effect|BarkerMackey1959
 CSIRO Division of Soils Radiocarbon Laboratory|Australia|CS|conventional|yes||BowmanHarvey1983
 CSIRO|Australia|CSC|AMS|yes||SieEtal1994
