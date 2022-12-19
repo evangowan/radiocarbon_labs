@@ -1,0 +1,18 @@
+country: New Zealand
+fractionation_notes:
+- notes: Dates published prior to 1977 were not corrected for fractionation, but since
+    the AMS lab opened ca. 1990, it is probably safe to assume all of the NZA dates
+    are corrected.
+  reference: GNS2022
+  year: 2022
+lab_id: NZA
+lab_name: Rafter Radiocarbon Laboratory
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: Operating procedures of the AMS lab
+  reference: BaisdenEtal2013
+  year: 2013
+uncertainty_notes: []
+year_opened: 1950
