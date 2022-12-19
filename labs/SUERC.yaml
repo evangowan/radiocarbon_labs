@@ -1,0 +1,16 @@
+country: United Kingdom
+fractionation_notes:
+- notes: Fractionation is corrected through direct measurement of d13C
+  reference: XuEtal2004
+  year: 2004
+lab_id: SUERC
+lab_name: Scottish Universities Environmental Research Centre
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: Laboratory proceedures
+  reference: XuEtal2004
+  year: 2004
+uncertainty_notes: []
+year_opened: 2002

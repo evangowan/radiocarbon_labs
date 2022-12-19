@@ -48,6 +48,7 @@ Simon Fraser University|Canada|SFU|conventional|If d13C was measured, otherwise 
 Socony Mobil|United States|SM|conventional||Some early dates from this lab use the code "MP"|BrayBurke1960
 Geological Survey of Sweden|Sweden|St|conventional|yes||Ostlund1959
 Sydney University|Australia|SUA|conventional|yes||GillespieEtal1972
+Scottish Universities Environmental Research Centre|United Kingdom|SUERC|AMS|yes||XuEtal2004
 Norwegian Insitutue of Technology, Trondheim|Norway|T|conventional|In Trondheim I, no. In Trondheim II, they discuss measuring d13C for fractionation, but it is not clear if they applied it to the dates on this list|In the first date list, they do not include an error for the standard deviation of the half life (30 years)|Nydal1959,Nydal1960
 University of Texas at Austin|United States|Tx|conventional|no, unless noted||Valastro, S., Davis, E.M., Varela, A.G. And Lisk, S.V., 1988. University of Texas at Austin radiocarbon dates XVI. Radiocarbon, 30(2), pp.197-253.
 Uppsala University (conventional)|Sweden|U|conventional|yes||Olsson1959
