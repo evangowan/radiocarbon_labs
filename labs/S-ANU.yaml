@@ -1,0 +1,16 @@
+country: Australia
+fractionation_notes:
+- notes: Fractionation is corrected through direct measurement of d13C
+  reference: FallonEtal2010
+  year: 2010
+lab_id: S-ANU
+lab_name: ANU Radiocarbon Laboratory (SSAMS)
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: Laboratory procedures
+  reference: FallonEtal2010
+  year: 2010
+uncertainty_notes: []
+year_opened: 2007
