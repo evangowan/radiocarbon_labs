@@ -57,7 +57,7 @@ class labentry:
 
 	def add_country(self):
 		if self.labinfo['country']:
-			print(f"Current country: {self.labinfo['lab_name']}")
+			print(f"Current country: {self.labinfo['country']}")
 
 		print("Enter country:")
 
