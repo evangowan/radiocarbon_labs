@@ -61,4 +61,4 @@ Universite du Quebec a Montreal GEOTOP (UQAM)|Canada|UQ|conventional|no||Dubois,
 United States Geological Survey|United States|W|conventional|||
 University of Waikato|New Zealand|Wk|conventional|yes||HoggEtal1987
 University of Waikato|New Zealand|Wk|AMS|yes|They do not distinguish between AMS and conventional dates with a different code|Waikato2022
-Yale University|United States|Y|conventional|||
+Yale University|United States|Y|conventional|Fractionation corrections were applied after Yale VI (roughly >Y-741)||StuiverDeevey1961

@@ -1,0 +1,36 @@
+country: United States
+fractionation_notes:
+- notes: Fractionation corrections began as of Yale VI
+  reference: StuiverDeevey1961
+  year: 1961
+lab_id: Y
+lab_name: Yale
+lab_type: conventional
+references:
+- high_number: 205
+  low_number: 129
+  notes: Yale I
+  reference: BlauEtal1953
+  year: 1953
+- high_number: 629
+  low_number: 125
+  notes: Yale IV
+  reference: DeeveyEtal1959
+  year: 1959
+- high_number: 741
+  low_number: 140
+  notes: Yale V
+  reference: StuiverEtal1960
+  year: 1960
+- high_number: 990
+  low_number: 579
+  notes: Yale VI
+  reference: StuiverDeevey1961
+  year: 1961
+- high_number: 2517
+  low_number: 137
+  notes: Yale IX
+  reference: Stuiver1969
+  year: 1969
+uncertainty_notes: []
+year_opened: 1951
