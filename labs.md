@@ -52,7 +52,7 @@ Sydney University|Australia|SUA|conventional|yes||GillespieEtal1972
 Scottish Universities Environmental Research Centre|United Kingdom|SUERC|AMS|yes||XuEtal2004
 ANU Radiocarbon Laboratory (SSAMS)|Australia|S-ANU|AMS|yes||FallonEtal2010
 Norwegian Insitutue of Technology, Trondheim|Norway|T|conventional|In Trondheim I, no. In Trondheim II, they discuss measuring d13C for fractionation, but it is not clear if they applied it to the dates on this list|In the first date list, they do not include an error for the standard deviation of the half life (30 years)|Nydal1959,Nydal1960
-University of Texas at Austin|United States|Tx|conventional|no, unless noted||Valastro, S., Davis, E.M., Varela, A.G. And Lisk, S.V., 1988. University of Texas at Austin radiocarbon dates XVI. Radiocarbon, 30(2), pp.197-253.
+University of Texas at Austin|United States|Tx|conventional|no, unless noted||ValastroEtal1988
 Uppsala University (conventional)|Sweden|U|conventional|yes||Olsson1959
 Uppsala University (AMS)|Sweden|Ua|AMS|likely||
 Belfast (conventional)|United Kingdom|UB|conventional|yes||Smith, A.G., Pearson, G.W. And Pilcher, J.R., 1973. Belfast radiocarbon dates V. Radiocarbon, 15(1), pp.212-228.

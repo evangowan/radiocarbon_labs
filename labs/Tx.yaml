@@ -1,0 +1,21 @@
+country: United States
+fractionation_notes:
+- notes: No normalization to -25 permille is done unless explicitly stated
+  reference: ValastroEtal1988
+  year: 1988
+lab_id: Tx
+lab_name: University of Texas at Austin
+lab_type: conventional
+references:
+- high_number: 20
+  low_number: 1
+  notes: Texas I
+  reference: StippEtal1962
+  year: 1962
+- high_number: 5607
+  low_number: 1432
+  notes: Texas XVI
+  reference: ValastroEtal1988
+  year: 1988
+uncertainty_notes: []
+year_opened: 1961
