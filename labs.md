@@ -35,6 +35,7 @@ University of New South Wales|Australia|NSW|conventional|no||Neuhaus1965
 Nagoya University Tandem Accelerator|Japan|NUTA|AMS|yes||NakaiEtal1984
 Rafter Radiocarbon Laboratory|New Zealand|NZA|AMS|yes||BaisdenEtal2013,GNS2022
 Humble Oil|United States|O|conventional|not stated, but likely not based on the fact that their early measurements were likely done without any knowledge of the fractionation effect|Only two date lists came out before Humble Oil was completely purchased by Standard Oil in 1959. The lab appears to have continued operating into the 1960s, but the operating procedures are unknown.|BrannonEtal1957b
+Oak Ridge Institute of Nuclear Studies/ Oak Ridge Associated Universities|United States|ORINS|conventional|not stated, but likely not||NoakesEtal1967
 ANTARES|Australia|OZA|AMS|yes||FinkEtal2004
 ANTARES|Australia|OZC|AMS|yes||FinkEtal2004
 ANTARES|Australia|OZD|AMS|yes||FinkEtal2004
@@ -59,6 +60,7 @@ Belfast (AMS)|United Kingdom|UBA|AMS|likely||
 University of Georgia|United States|UGa|conventional|Corrected after UGa-5470||KellyEtal2022
 Universite du Quebec a Montreal GEOTOP (UQAM)|Canada|UQ|conventional|no||Dubois, J.M.M., Occhietti, S., Pichet, P., Page, P., Jacob, C. And Bigras, P., 1988. Universite du Quebec a Montreal GEOTOP Radiocarbon Dates I. Radiocarbon, 30(3), pp.355-365.
 United States Geological Survey|United States|W|conventional|||
+Western Australia Institute of Technology|Australia|WAIT|conventional||There is no information on the laboratory practices of this lab, I am assuming it is conventional since the dates come from the 1980s
 University of Waikato|New Zealand|Wk|conventional|yes||HoggEtal1987
 University of Waikato|New Zealand|Wk|AMS|yes|They do not distinguish between AMS and conventional dates with a different code|Waikato2022
 Yale University|United States|Y|conventional|Fractionation corrections were applied after Yale VI (roughly >Y-741)||StuiverDeevey1961

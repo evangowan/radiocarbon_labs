@@ -1,0 +1,18 @@
+country: United States
+fractionation_notes: []
+lab_id: ORINS
+lab_name: Oak Ridge Institute of Nuclear Studies/ Oak Ridge Associated Universities
+lab_type: conventional
+references:
+- high_number: 51
+  low_number: 1
+  notes: ORINS I
+  reference: NoakesEtal1967
+  year: 1967
+- high_number: 83
+  low_number: 61
+  notes: ORINS II
+  reference: NoakesEtal1968
+  year: 1968
+uncertainty_notes: []
+year_opened: 1964

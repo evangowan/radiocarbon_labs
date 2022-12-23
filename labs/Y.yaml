@@ -1,5 +1,9 @@
 country: United States
 fractionation_notes:
+- notes: A few samples from Australia were crudely corrected for fractionation by
+    assuming that they contained 5% more C14 than their wood standard
+  reference: StuiverEtal1960
+  year: 1959
 - notes: Fractionation corrections began as of Yale VI
   reference: StuiverDeevey1961
   year: 1961
