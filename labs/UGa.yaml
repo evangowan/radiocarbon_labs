@@ -1,0 +1,16 @@
+country: United States
+fractionation_notes:
+- notes: Corrected after UGa-5470
+  reference: KellyEtal2022
+  year: 2022
+lab_id: UGa
+lab_name: University of Georgia
+lab_type: conventional
+references:
+- high_number: 53
+  low_number: 1
+  notes: University of Georgia I
+  reference: NoakesBrandau1971
+  year: 1971
+uncertainty_notes: []
+year_opened: 1969
