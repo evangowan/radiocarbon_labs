@@ -13,6 +13,7 @@ University of Arizona|United States|A|conventional|||
 NSF-Arizona AMS Laboratory|United States|AA|AMS|yes||DonahueEtal1997
 University of Aarhus|Denmark|AAR|AMS|yes||AndersonEtal1989
 Australian National University|Australia|ANU|conventional|yes, at least from ANU III||PolachEtal1969
+Australian National University|Australia|ANUA|AMS|yes||BirdEtal1999
 University of Bern|Switzerland|B|conventional|no|in some later measurements, they included an additional error term to account for a lack of fractionation correction|GfellerEtal1961,OeschgerEtal1970
 Beta Analytic|United States|Beta|conventional|Beta started normalizing after Beta-70783||Beta2022,KellyEtal2022
 Beta Analytic|United States|Beta|AMS|Beta started normalizing after Beta-70783|Beta started doing AMS dating in 1983, but did not change their lab code so it is not known which samples are conventional or AMS|Beta2022,KellyEtal2022

@@ -1,0 +1,16 @@
+country: Australia
+fractionation_notes:
+- notes: ANUA dates are corrected for fractionation
+  reference: BirdEtal1999
+  year: 1999
+lab_id: ANUA
+lab_name: Australian National University
+lab_type: AMS
+references:
+- high_number: 10323
+  low_number: 6125
+  notes: Describes laboratory techniques
+  reference: BirdEtal1999
+  year: 1999
+uncertainty_notes: []
+year_opened: ''
