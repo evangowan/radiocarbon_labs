@@ -34,6 +34,7 @@ Lund (AMS)|Sweden|LuS|AMS|likely||
 University of Michigan|United States|M|conventional|||
 University of New South Wales|Australia|NSW|conventional|no||Neuhaus1965
 Nagoya University Tandem Accelerator|Japan|NUTA|AMS|yes||NakaiEtal1984
+New Zealand Geological Survey and Institute of Nuclear Science|New Zealand|NZ|conventional|likely not||GrantTaylorRafter1963
 Rafter Radiocarbon Laboratory|New Zealand|NZA|AMS|yes||BaisdenEtal2013,GNS2022
 Humble Oil|United States|O|conventional|not stated, but likely not based on the fact that their early measurements were likely done without any knowledge of the fractionation effect|Only two date lists came out before Humble Oil was completely purchased by Standard Oil in 1959. The lab appears to have continued operating into the 1960s, but the operating procedures are unknown.|BrannonEtal1957b
 Oak Ridge Institute of Nuclear Studies/ Oak Ridge Associated Universities|United States|ORINS|conventional|not stated, but likely not||NoakesEtal1967

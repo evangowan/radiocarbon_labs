@@ -1,0 +1,17 @@
+country: New Zealand
+fractionation_notes:
+- notes: There is no mention of correction for fractionation, so it likely was not
+    done
+  reference: GrantTaylorRafter1963
+  year: 1963
+lab_id: NZ
+lab_name: New Zealand Geological Survey and Institute of Nuclear Science
+lab_type: conventional
+references:
+- high_number: 381
+  low_number: 1
+  notes: New Zealand I-V
+  reference: GrantTaylorRafter1963
+  year: 1963
+uncertainty_notes: []
+year_opened: 1952
