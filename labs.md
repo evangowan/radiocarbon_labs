@@ -63,6 +63,7 @@ University of Georgia|United States|UGa|conventional|Corrected after UGa-5470||K
 Universite du Quebec a Montreal GEOTOP (UQAM)|Canada|UQ|conventional|no||Dubois, J.M.M., Occhietti, S., Pichet, P., Page, P., Jacob, C. And Bigras, P., 1988. Universite du Quebec a Montreal GEOTOP Radiocarbon Dates I. Radiocarbon, 30(3), pp.355-365.
 United States Geological Survey|United States|W|conventional|||
 Western Australia Institute of Technology|Australia|WAIT|conventional||There is no information on the laboratory practices of this lab, I am assuming it is conventional since the dates come from the 1980s
+University of Waterloo|Canada|WAT|conventional|Dates are corrected for fractionation after WAT-318||BerryDrimmie1982
 University of Waikato|New Zealand|Wk|conventional|yes||HoggEtal1987
 University of Waikato|New Zealand|Wk|AMS|yes|They do not distinguish between AMS and conventional dates with a different code|Waikato2022
 Yale University|United States|Y|conventional|Fractionation corrections were applied after Yale VI (roughly >Y-741)||StuiverDeevey1961

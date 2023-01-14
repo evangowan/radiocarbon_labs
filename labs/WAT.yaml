@@ -1,0 +1,16 @@
+country: Canada
+fractionation_notes:
+- notes: Dates are corrected for fractionation after WAT-318
+  reference: BerryDrimmie1982
+  year: 1982
+lab_id: WAT
+lab_name: University of Waterloo
+lab_type: conventional
+references:
+- high_number: 579
+  low_number: 40
+  notes: Waterloo I
+  reference: BerryDrimmie1982
+  year: 1982
+uncertainty_notes: []
+year_opened: 1974
