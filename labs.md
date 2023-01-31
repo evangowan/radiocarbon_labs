@@ -38,6 +38,7 @@ New Zealand Geological Survey and Institute of Nuclear Science|New Zealand|NZ|co
 Rafter Radiocarbon Laboratory|New Zealand|NZA|AMS|yes||BaisdenEtal2013,GNS2022
 Humble Oil|United States|O|conventional|not stated, but likely not based on the fact that their early measurements were likely done without any knowledge of the fractionation effect|Only two date lists came out before Humble Oil was completely purchased by Standard Oil in 1959. The lab appears to have continued operating into the 1960s, but the operating procedures are unknown.|BrannonEtal1957b
 Oak Ridge Institute of Nuclear Studies/ Oak Ridge Associated Universities|United States|ORINS|conventional|not stated, but likely not||NoakesEtal1967
+National Ocean Science AMS Lab, Woods Hole|United States|OS|AMS|likely|Sometimes the lab code is stated as NOSAMS|JonesEtal1990
 ANTARES|Australia|OZA|AMS|yes||FinkEtal2004
 ANTARES|Australia|OZC|AMS|yes||FinkEtal2004
 ANTARES|Australia|OZD|AMS|yes||FinkEtal2004

@@ -1,0 +1,13 @@
+country: United States
+fractionation_notes: []
+lab_id: OS
+lab_name: National Ocean Science AMS Lab, Woods Hole
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: Description about the laboratory
+  reference: JonesEtal1990
+  year: 1990
+uncertainty_notes: []
+year_opened: 1991
