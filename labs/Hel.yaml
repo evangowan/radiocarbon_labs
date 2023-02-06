@@ -1,0 +1,15 @@
+country: Finland
+fractionation_notes:
+- notes: From Date list III, all dates with d13C measurements are corrected for fractionation
+  reference: JungnerSonninen1989
+  year: 1989
+- notes: From sample Hel-2278 onwards, d13C was measured for all samples, and corrected
+    for fractionation
+  reference: JungnerSonninen1996
+  year: 1996
+lab_id: Hel
+lab_name: University of Helsinki
+lab_type: conventional
+references: []
+uncertainty_notes: []
+year_opened: 1968
