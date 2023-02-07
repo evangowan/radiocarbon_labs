@@ -1,0 +1,11 @@
+country: Sweden
+fractionation_notes:
+- notes: All dates are normalized to -25 permille using measured d13C
+  reference: Hakansson1968
+  year: 1968
+lab_id: Lu
+lab_name: University of Lund
+lab_type: conventional
+references: []
+uncertainty_notes: []
+year_opened: 1966
