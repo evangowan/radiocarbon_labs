@@ -1,0 +1,13 @@
+country: Canada
+fractionation_notes:
+- notes: None of the Saskatchewan date lists mention correction for fractionation,
+    but this paper says that the dates are not. Considering that Saskatchewan was
+    one of the first radiocarbon labs, it is unlikely they would have done the fractionation.
+  reference: England1985
+  year: 1985
+lab_id: S
+lab_name: University of Saskatchewan
+lab_type: conventional
+references: []
+uncertainty_notes: []
+year_opened: 1954

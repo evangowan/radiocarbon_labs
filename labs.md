@@ -48,7 +48,7 @@ University of Pennsylvania|United States|P|conventional|no||Ralph1959
 University of Pisa|Italy|Pi|conventional|||
 Cambridge University|United Kingdom|Q|conventional|||
 Queens College|United States|QC|conventional|no||PardiNewman1980
-University of Saskatchewan|Canada|S|conventional|||
+University of Saskatchewan|Canada|S|conventional|no||England1985
 Simon Fraser University|Canada|SFU|conventional|If d13C was measured, otherwise no unless otherwise stated||HobsonNelson1984
 Socony Mobil|United States|SM|conventional||Some early dates from this lab use the code "MP"|BrayBurke1960
 Geological Survey of Sweden|Sweden|St|conventional|yes||Ostlund1959
