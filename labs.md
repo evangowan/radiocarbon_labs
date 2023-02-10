@@ -50,6 +50,7 @@ Cambridge University|United Kingdom|Q|conventional|||
 Queens College|United States|QC|conventional|no||PardiNewman1980
 University of Saskatchewan|Canada|S|conventional|no||England1985
 Simon Fraser University|Canada|SFU|conventional|If d13C was measured, otherwise no unless otherwise stated||HobsonNelson1984
+Smithsonian Institute|United States|SI|conventional|no||England1985
 Socony Mobil|United States|SM|conventional||Some early dates from this lab use the code "MP"|BrayBurke1960
 Geological Survey of Sweden|Sweden|St|conventional|yes||Ostlund1959
 Sydney University|Australia|SUA|conventional|yes||GillespieEtal1972

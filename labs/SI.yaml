@@ -1,0 +1,12 @@
+country: United States
+fractionation_notes:
+- notes: None of the Smithsonian Institute date lists mention correction for fractionation,
+    but this paper says that the dates are not.
+  reference: England1985
+  year: 1985
+lab_id: SI
+lab_name: Smithsonian Institute
+lab_type: conventional
+references: []
+uncertainty_notes: []
+year_opened: 1962
