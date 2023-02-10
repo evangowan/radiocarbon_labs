@@ -1,0 +1,13 @@
+country: Netherlands
+fractionation_notes:
+- notes: There doesn't seem to be a formal publication where they state that it is
+    corrected, but publications that use dates from Utrect are generally normalized,
+    e.g. this reference
+  reference: MoodleyVanWeering1993
+  year: 1993
+lab_id: UtC
+lab_name: Utrecht University
+lab_type: AMS
+references: []
+uncertainty_notes: []
+year_opened: 1979
