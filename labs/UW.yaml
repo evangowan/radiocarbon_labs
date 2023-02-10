@@ -1,0 +1,11 @@
+country: United States
+fractionation_notes:
+- notes: No correction for fractionation
+  reference: FairhallEtal1966
+  year: 1966
+lab_id: UW
+lab_name: University of Washington
+lab_type: conventional
+references: []
+uncertainty_notes: []
+year_opened: 1955
