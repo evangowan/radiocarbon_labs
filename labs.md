@@ -67,7 +67,7 @@ University of Georgia|United States|UGa|conventional|Corrected after UGa-5470||K
 Universite du Quebec a Montreal GEOTOP (UQAM)|Canada|UQ|conventional|no||Dubois, J.M.M., Occhietti, S., Pichet, P., Page, P., Jacob, C. And Bigras, P., 1988. Universite du Quebec a Montreal GEOTOP Radiocarbon Dates I. Radiocarbon, 30(3), pp.355-365.
 Utrecht University|Netherlands|UtC|AMS|likely||MoodleyVanWeering1993
 University of Washington|United States|UW|conventional|no||FairhallEtal1966
-United States Geological Survey|United States|W|conventional|||
+United States Geological Survey (Washington/Reston)|United States|W|conventional|no||KelleyEtal1978
 Western Australia Institute of Technology|Australia|WAIT|conventional||There is no information on the laboratory practices of this lab, I am assuming it is conventional since the dates come from the 1980s
 University of Waterloo|Canada|WAT|conventional|Dates are corrected for fractionation after WAT-318||BerryDrimmie1982
 University of Waikato|New Zealand|Wk|conventional|yes||HoggEtal1987

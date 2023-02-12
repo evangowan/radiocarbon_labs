@@ -1,0 +1,11 @@
+country: United States
+fractionation_notes:
+- notes: Dates are not corrected for fractionation
+  reference: KelleyEtal1978
+  year: 1978
+lab_id: W
+lab_name: United States Geological Survey (Washington/Reston)
+lab_type: conventional
+references: []
+uncertainty_notes: []
+year_opened: 1953
