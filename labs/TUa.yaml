@@ -1,0 +1,12 @@
+country: Norway/Sweden
+fractionation_notes:
+- notes: Since the measurements are done at Uppsala University, the dates are almost
+    certaintly corrected for fractionation
+  reference: GulliksenThomsen1992
+  year: 1992
+lab_id: TUa
+lab_name: Norwegian Insitutue of Technology, Trondheim and Uppsala University
+lab_type: AMS
+references: []
+uncertainty_notes: []
+year_opened: 1992

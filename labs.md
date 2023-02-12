@@ -57,6 +57,7 @@ Sydney University|Australia|SUA|conventional|yes||GillespieEtal1972
 Scottish Universities Environmental Research Centre|United Kingdom|SUERC|AMS|yes||XuEtal2004
 ANU Radiocarbon Laboratory (SSAMS)|Australia|S-ANU|AMS|yes||FallonEtal2010
 Norwegian Insitutue of Technology, Trondheim|Norway|T|conventional|Starting with Trondheim III, dates on wood were corrected to -25 permille, and marine shells to -4 permille. They state in Trondheim V that fractionation corrections were only done for samples younger 2000 years. Starting in Trondheim VI, they corrected shells to 0 permille if d13C was measured,|In the first date list, they do not include an error for the standard deviation of the half life (30 years)|Nydal1962,NydalEtal1970,NydalEtal1972,NydalEtal1972
+Norwegian Insitutue of Technology, Trondheim and Uppsala University|Norway/Sweden|TUa|AMS|The TUa samples are prepared in Trondheim, and measured at Uppsala, so it is likely that fractionation is corrected||GulliksenThomsen1992
 University of Texas at Austin|United States|Tx|conventional|no, unless noted||ValastroEtal1988
 Uppsala University (conventional)|Sweden|U|conventional|yes||Olsson1959
 Uppsala University (AMS)|Sweden|Ua|AMS|likely||
