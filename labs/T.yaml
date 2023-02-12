@@ -1,0 +1,20 @@
+country: Norway
+fractionation_notes:
+- notes: Starting with Trondheim III, dates on wood were corrected to -25 permille,
+    and marine shells to -4 permille
+  reference: Nydal1962
+  year: 1962
+- notes: They state in Trondheim V that fractionation corrections were only done for
+    samples younger 2000 years
+  reference: Nydal1970
+  year: 1970
+- notes: Starting in Trondheim VI, they corrected shells to 0 permille if d13C was
+    measured.
+  reference: NydalEtal1972
+  year: 1972
+lab_id: T
+lab_name: Norwegian Insitutue of Technology, Trondheim
+lab_type: conventional
+references: []
+uncertainty_notes: []
+year_opened: 1953
