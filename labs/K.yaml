@@ -1,0 +1,11 @@
+country: Denmark
+fractionation_notes:
+- notes: Copenhagen dates are not corrected for fractionation
+  reference: Funder1982
+  year: 1982
+lab_id: K
+lab_name: National Museum, Copenhagen
+lab_type: conventional
+references: []
+uncertainty_notes: []
+year_opened: 1952
