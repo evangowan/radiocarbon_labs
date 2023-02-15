@@ -61,7 +61,7 @@ Norwegian Insitutue of Technology, Trondheim|Norway|T|conventional|Starting with
 Norwegian Insitutue of Technology, Trondheim and Uppsala University|Norway/Sweden|TUa|AMS|The TUa samples are prepared in Trondheim, and measured at Uppsala, so it is likely that fractionation is corrected||GulliksenThomsen1992
 University of Texas at Austin|United States|Tx|conventional|no, unless noted||ValastroEtal1988
 Uppsala University (conventional)|Sweden|U|conventional|yes||Olsson1959
-Uppsala University (AMS)|Sweden|Ua|AMS|likely||
+Uppsala University (AMS)|Sweden|Ua|AMS|yes||BennikeKelly1987
 Belfast (conventional)|United Kingdom|UB|conventional|yes||Smith, A.G., Pearson, G.W. And Pilcher, J.R., 1973. Belfast radiocarbon dates V. Radiocarbon, 15(1), pp.212-228.
 Belfast (AMS)|United Kingdom|UBA|AMS|likely||
 University of Georgia|United States|UGa|conventional|Corrected after UGa-5470||KellyEtal2022

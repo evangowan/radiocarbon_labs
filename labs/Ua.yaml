@@ -1,0 +1,11 @@
+country: Sweden
+fractionation_notes:
+- notes: dates are corrected for fractionation
+  reference: BennikeKelly1987
+  year: 1987
+lab_id: Ua
+lab_name: Uppsala University
+lab_type: AMS
+references: []
+uncertainty_notes: []
+year_opened: 1983
