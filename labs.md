@@ -28,7 +28,7 @@ Atomic Energy Research Establishment, Harwell|England|HAR|conventional|yes||Otle
 University of Helsinki|Finland|Hel|conventional|From date list III onwards, if d13C was measured, the dates were corrected for fractionation. Date lists I and II did not, even if measured. All samples from Hel-2278 were measured for d13C||JungnerSonninen1989,JungnerSonninen1996
 Teledyne Isotopes|United States|I|conventional|no||BuckleyValdesPages1981
 Illinois State Geological Survey|United States|ISGS|conventional|yes||KellyEtal2022
-Copenhagen Carbon-14 Laboratory, National Museum|Denmark|K|conventional|no|In Copenhagen III, they state that 200 +/- 40 should be added to all of the dates due to a change in standards to correct for the Seuss effect.|Tauber1960,Funder1982
+Copenhagen Carbon-14 Laboratory, National Museum|Denmark|K|conventional|Copenhagen started correcting for fractionation from K-2455, but unconventionally normalized to 0 permille for marine shells|In Copenhagen III, they state that 200 +/- 40 should be added to all of the dates due to a change in standards to correct for the Seuss effect.|Tauber1960,Funder1982,KellyBennike1992
 Lamont Geological Observatory (Columbia University)|United States|L|conventional|Fractionation was corrected from 1956|Lamont VI sets a standardized way to correct for fractionation|BroeckerOlson1959
 La Jolla, Scripps Institute of Oceanography, University of California|United States|LJ|conventional|Samples were corrected from 1971, any date list after VI should be corrected (LJ-2000 to LJ-2300), those before likely not||HubbsEtal1960,Linick1977
 Lund (conventional)|Sweden|Lu|conventional|yes||Hakansson1968

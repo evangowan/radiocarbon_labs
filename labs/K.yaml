@@ -3,6 +3,10 @@ fractionation_notes:
 - notes: Copenhagen dates are not corrected for fractionation
   reference: Funder1982
   year: 1982
+- notes: Copenhagen started correcting for fractionation from K-2455, but unconventionally
+    normalized to 0 permille for marine shells
+  reference: KellyBennike1992
+  year: 1992
 lab_id: K
 lab_name: National Museum, Copenhagen
 lab_type: conventional
