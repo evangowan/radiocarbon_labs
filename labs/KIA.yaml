@@ -1,0 +1,17 @@
+country: Germany
+fractionation_notes:
+- notes: Dates are corrected for fractionation by measured d13C
+  reference: Hamann2023
+  year: 2023
+lab_id: KIA
+lab_name: Leibniz-Laboratory for Radiometric Dating and Stable Isotope Research (Christian-Albrechts-University
+  of Kiel)
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: website for the laboratory
+  reference: Hamann2023
+  year: 2023
+uncertainty_notes: []
+year_opened: 1994
