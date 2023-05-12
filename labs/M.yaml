@@ -1,0 +1,16 @@
+country: United States
+fractionation_notes:
+- notes: Dates are not corrected for fractionation
+  reference: KeithAnderson1963
+  year: 1963
+lab_id: M
+lab_name: University of Michigan
+lab_type: conventional
+references:
+- high_number: 1226
+  low_number: 1220
+  notes: Experiments on the apparent age of shells
+  reference: KeithAnderson1963
+  year: 1963
+uncertainty_notes: []
+year_opened: 1950
