@@ -1,0 +1,16 @@
+country: Sweden
+fractionation_notes:
+- notes: Dates are corrected for fractionation with measured d13C
+  reference: AdolphiEtal2013
+  year: 2013
+lab_id: LuA
+lab_name: University of Lund
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: Intercomparison of dating at Lund and ETH-Zurich AMS measurements
+  reference: AdolphiEtal2013
+  year: 2013
+uncertainty_notes: []
+year_opened: 1994
