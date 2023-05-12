@@ -1,0 +1,16 @@
+country: United Kingdom
+fractionation_notes:
+- notes: fractionation corrected using measured d13C
+  reference: ReimerEtal2015
+  year: 2015
+lab_id: UBA
+lab_name: Queen's University Belfast
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: laboratory procedures for UBA
+  reference: ReimerEtal2015
+  year: 2015
+uncertainty_notes: []
+year_opened: 2006
