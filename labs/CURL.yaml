@@ -1,0 +1,18 @@
+country: United States
+fractionation_notes:
+- notes: All CURL dates are corrected for fractionation. Actual measurements of 14C
+    are done at the NOSAMS facility
+  reference: INSTAAR2005
+  year: 2005
+lab_id: CURL
+lab_name: INSTAAR Laboratory for AMS Radiocarbon Preparation and Research (University
+  of Colorado Boulder)
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: website for CURL, detailing the laboratory procedures
+  reference: INSTAAR2005
+  year: 2005
+uncertainty_notes: []
+year_opened: 1990
