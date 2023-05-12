@@ -1,0 +1,16 @@
+country: Poland
+fractionation_notes:
+- notes: all dates are corrected for fractionation using measured d13C
+  reference: Poznam2023
+  year: 2023
+lab_id: Poz
+lab_name: Poznan Radiocarbon Laboratory
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: website detailing the lab
+  reference: Poznam2023
+  year: 2023
+uncertainty_notes: []
+year_opened: 2001
