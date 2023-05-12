@@ -1,0 +1,18 @@
+country: United Kingdom
+fractionation_notes:
+- notes: In date lists I and II, no correction is done for marine shells. From III
+    onwards, it was corrected. Groundwater and calcrete were not corrected. Fractionation
+    was corrected using measured d13C
+  reference: HarknessWilson1979
+  year: 1979
+lab_id: SRR
+lab_name: Scottish Universities Research and Reactor Centre
+lab_type: conventional
+references:
+- high_number: 834
+  low_number: 27
+  notes: SRR III
+  reference: HarknessWilson1979
+  year: 1979
+uncertainty_notes: []
+year_opened: 1971
