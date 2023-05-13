@@ -1,0 +1,17 @@
+country: United States
+fractionation_notes:
+- notes: Fractionation corrected with measured d13C
+  reference: SouthonEtal2004
+  year: 2004
+lab_id: UCIAMS
+lab_name: W. M. Keck Carbon Cycle Accelerator Facility, University of California,
+  Irvine
+lab_type: AMS
+references:
+- high_number: ''
+  low_number: ''
+  notes: Description of the facility
+  reference: SouthonEtal2004
+  year: 2004
+uncertainty_notes: []
+year_opened: 2002
